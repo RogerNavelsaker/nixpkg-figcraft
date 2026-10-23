@@ -1,0 +1,24 @@
+{
+  "source": {
+    "type": "github-release",
+    "owner": "storytold",
+    "repo": "figcraft",
+    "version": "0.10.0",
+    "tag": "v0.10.0",
+    "archive": "figcraft-0.10.0-linux-x86_64.tar.gz",
+    "url": "https://github.com/storytold/figcraft/releases/download/v0.10.0/figcraft-0.10.0-linux-x86_64.tar.gz",
+    "hash": "sha256-s+L/2rVNIDo/btGgAYuDJTAL0i2+1qAvCvZ1fz62ado="
+  },
+  "package": {
+    "repo": "figcraft",
+    "version": "0.10.0"
+  },
+  "binary": {
+    "name": "figcraft"
+  },
+  "meta": {
+    "description": "Figcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "homepage": "https://github.com/storytold/figcraft",
+    "licenseSpdx": "MIT OR Apache-2.0"
+  }
+}
