@@ -17,7 +17,7 @@
     "name": "figcraft"
   },
   "meta": {
-    "description": "Figcraft, an open-source creative app from the ArtCraft Craft app suite",
+    "description": "FigCraft, an open-source creative app from the ArtCraft Craft app suite",
     "homepage": "https://github.com/storytold/figcraft",
     "licenseSpdx": "MIT OR Apache-2.0"
   }
